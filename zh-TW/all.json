@@ -1,0 +1,131 @@
+{
+  "COMMON": {
+    "ACTIONS": {
+      "APPLY": "應用",
+      "COPY": "拷貝",
+      "CREATE": "建立",
+      "DELETE": "刪除",
+      "DUPLICATE": "複製",
+      "EDIT": "編輯",
+      "HIDE": "隱藏",
+      "REMOVE": "移除",
+      "UPDATE": "更新",
+      "VIEW": "查看"
+    },
+    "AI": {
+      "AI_FLASHCARDS": "AI 字卡"
+    },
+    "GENERAL": {
+      "FLASHCARD_one": "字卡",
+      "FLASHCARD_other": "字卡",
+      "NOTE_one": "筆記",
+      "NOTE_other": "筆記"
+    },
+    "NEW": "新建"
+  },
+  "DOCUMENT": {
+    "MENU": {
+      "CHANGE_DOCUMENT_ICON": "更改文件圖標",
+      "CHANGE_DOCUMENT_STATUS": "更改文件狀態",
+      "CHANGE_FOLDER_ICON": "更改資料夾圖標",
+      "CUSTOMIZE_SPACED_REPETITION": "自訂間隔重複",
+      "DELETE": "刪除",
+      "EDIT_MODE": {
+        "READ": "唯讀模式",
+        "WRITE": "編輯模式"
+      },
+      "EXPORT": "匯出",
+      "MOVE": "移動",
+      "UNDO": "上一步",
+      "UNSHARE_DOCUMENT": "取消分享文件",
+      "VIEW_TRASH": "垃圾桶"
+    },
+    "PUBLISH_STATUS": {
+      "DRAFT": "草稿",
+      "FINISHED": "已完成",
+      "PINNED": "已訂選"
+    }
+  },
+  "FILE_UPLOADING": {
+    "LOCAL_ONLY_WARN": "此檔案上傳失敗，已暫存在電腦。",
+    "LOCAL_WAITING_FOR_UPLOAD_WARN": "此檔案尚未上傳，僅存在本地端。",
+    "NOT_FOUND": "找不到該檔案"
+  },
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "語言"
+  },
+  "NOTIFICATIONS": {
+    "INVITE": {
+      "ACCEPT": "接受邀請",
+      "BODY": "已邀請您加入",
+      "REJECT": "拒絕"
+    },
+    "NEW_COMMENT": {
+      "BODY": "評論了",
+      "BODY_ARTICLE": "評論了您的文章",
+      "BODY_COMMENT": "回覆了您的留言",
+      "BODY_GROUP": "傳送聊天到您的群組"
+    },
+    "NEW_LIKE": {
+      "BODY": "喜歡"
+    },
+    "POPUP_TITLE": "近期通知"
+  },
+  "ONBOARDING": {
+    "SIDEBAR": {
+      "INITIAL": {
+        "PAGE_0": {
+          "TITLE": "建立資料夾"
+        },
+        "PAGE_2": {
+          "TITLE": "建立字卡"
+        }
+      }
+    }
+  },
+  "PAGES": {
+    "ALL_NOTES": {
+      "SORT": {
+        "BY_CREATION_TIME": "按建立時間",
+        "BY_MODIFICATION": "按修改時間",
+        "BY_TITLE": "按標題"
+      },
+      "TITLE": "全部筆記"
+    }
+  },
+  "PDF": {
+    "ADD_ANNOTATIONS": {
+      "AI_DROPDOWN": {
+        "BASIC_CARDS": "基礎卡",
+        "GENERATE_SECTION": "產生"
+      },
+      "CLOZE_BTN_TOOLTIP": "克漏字卡",
+      "COPY_IMAGE": "複製圖片",
+      "COPY_TEXT": "已純文字複製",
+      "NOTE_BTN_TOOLTIP": "筆記"
+    },
+    "HEADER": {
+      "NUMBER_OF_PAGES_TOOLTIP": "頁數"
+    },
+    "PDF_OPTIONS": {
+      "CHANGE_THEME": "更改主題",
+      "DOWNLOAD_PDF": "下載 PDF",
+      "LEARN_MORE": "了解更多",
+      "OPEN_WEBPAGE_EXTERNALLY": "在外部開啟網頁",
+      "PDF_SETTINGS": "設定",
+      "PDF_SETTINGS_MENU": {
+        "AUTO_HIGHLIGHT": "自動醒目提示"
+      },
+      "SEARCH_IN_PDF": "在 PDF 中尋找",
+      "THEMES": {
+        "DARK": "深色",
+        "LIGHT": "淺色",
+        "USE_REMNOTE_THEME": "使用 RemNote 主題"
+      }
+    },
+    "SEARCH_CTRL_F": {
+      "DONE": "完成",
+      "INPUT_PLACEHOLDER": "尋找"
+    }
+  }
+}

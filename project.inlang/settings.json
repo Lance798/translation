@@ -17,7 +17,8 @@
     "pt-br",
     "ru",
     "tr",
-    "vi"
+    "vi",
+    "zh-TW"
   ],
   "modules": [
     "https://cdn.jsdelivr.net/npm/@inlang/plugin-i18next@4/dist/index.js",
